@@ -34,7 +34,7 @@ class LinkedList {
     }
 }
 public class addinsertdisplnode {
-   public static void main(String[] args) {
+   public static void main(String[]args) {
 	   LinkedList list = new LinkedList(); // Create an instance of LinkedList
 	   list.addNode(50);
 	   list.addNode(60);
